@@ -56,11 +56,13 @@ hr {
 main div {
     margin-left: 40px;
     margin-top: 40px;
-    background-color: white;
 }
 
-ul {
+ul > li , h2.subtitle {
     list-style-type: none;
+    background-color: white;
+    margin-top: 20px;
+    font-size: 20px;
 }
 
 span.check {
@@ -76,5 +78,39 @@ span.Editorial {
     border-radius: 10px;
     background-color: #47ADF1; 
     padding: 5px;
-    font-size: 8px;
+    font-size: 10px;
+    color: white;
+}
+
+span.Goals {
+    border-radius: 10px;
+    background-color: #9C72E4; 
+    padding: 5px;
+    font-size: 10px;
+    color: white;
+}
+
+span.ballot-x {
+    color: #EC6962;
+    border: 1px solid #EC6962;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+span.Recruiting { 
+    border-radius: 10px;
+    background-color: #64C0A9; 
+    padding: 5px;
+    font-size: 10px;
+    color: white;
+}
+
+span.Mobile {
+    border-radius: 10px;
+    background-color: #F29E33; 
+    padding: 5px;
+    font-size: 10px;
+    color: white;
 }
