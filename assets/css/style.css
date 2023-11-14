@@ -8,12 +8,14 @@
 header figure{
     background-color: white;
     padding-left: 20px;
+    vertical-align: middle
 }
  
 h1 {
     font-size: 40px;
     background-color: white;
     display: inline;
+    vertical-align: middle
 }
 
 main section{
