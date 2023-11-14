@@ -5,17 +5,22 @@
     background-color: #F6F8F9;
 }
 
-header figure{
+figure{
     background-color: white;
+}
+img {
     padding-left: 20px;
-    vertical-align: middle
+    vertical-align: middle;
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
  
 h1 {
     font-size: 40px;
-    background-color: white;
     display: inline;
-    vertical-align: middle
+    vertical-align: middle; 
+    background-color: white;
 }
 
 main section{
