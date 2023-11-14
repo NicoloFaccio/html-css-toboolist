@@ -4,3 +4,15 @@
     box-sizing: border-box;
     background-color: #F6F8F9;
 }
+
+header figure{
+    background-color: white;
+    padding-left: 20px; 
+    
+}
+ 
+h1 {
+    font-size: 40px;
+    background-color: white;
+    display: inline;
+}
