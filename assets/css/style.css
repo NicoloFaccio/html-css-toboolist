@@ -53,8 +53,28 @@ hr {
     margin-top: 10px;
 }
 
-section > div {
+main div {
     margin-left: 40px;
     margin-top: 40px;
     background-color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+span.check {
+    color: #85CEBD;
+    border: 1px solid #85CEBD;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+span.Editorial {
+    border-radius: 10px;
+    background-color: #47ADF1; 
+    padding: 5px;
+    font-size: 8px;
 }
